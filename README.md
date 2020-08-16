@@ -1,2 +1,2 @@
-# git-hub-test repo .
+# git-hub-test repo
 # diff test
